@@ -11,7 +11,7 @@
 			<p class="flash-version">Materia requires that you use an up-to-date browser with javascript and cookies enabled.</p>
 		</section>
 
-		<section class="float right bordered">
+		<section class="float left bordered">
 			<h2 id="faq-link">Documentation</h2>
 			<p><a href="https://ucfopen.github.io/Materia-Docs/">View the docs</a> for guides on using Materia.</p>
 			<h3 id="faq-link">Getting Started</h2>
