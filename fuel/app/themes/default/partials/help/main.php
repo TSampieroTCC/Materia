@@ -21,7 +21,7 @@
 
 		<section class="float right">
 			<h3 id="support">I'm still having some trouble, who can I contact for help?</h2>
-			<p>If you need help beyond what has been provided here, please contact Travis Sampiero at TCC Online using one of the following methods:</p>
+			<p>Need additional help with Materia? Contact Travis Sampiero at TCC Online for assistance!</p>
 			<dl>
 				<dt>Email</dt>
 					<dd><a href="mailto:travis.sampiero@tcc.fl.edu">travis.sampiero@tcc.fl.edu</a></dd>
