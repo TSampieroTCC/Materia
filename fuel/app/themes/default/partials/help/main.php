@@ -19,7 +19,7 @@
 			<p><a href="https://ucfopen.github.io/Materia-Docs/create/getting-started.html">Author/Instructor Guide</a></p>
 		</section>
 
-		<section class="float right">
+		<section class="float right bordered">
 			<h3 id="support">I'm still having some trouble, who can I contact for help?</h2>
 			<p>Need additional help with Materia? Contact Travis Sampiero at TCC Online for assistance!</p>
 			<dl>
