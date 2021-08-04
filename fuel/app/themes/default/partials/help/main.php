@@ -12,7 +12,7 @@
 		</section>
 
 		<section class="float left bordered">
-			<h2 id="faq-link">Documentation</h2>
+			<h2 id="faq-link">Guides and Assistance</h2>
 			<p><a href="https://ucfopen.github.io/Materia-Docs/">View the docs</a> for guides on using Materia.</p>
 			<h3 id="faq-link">Getting Started</h2>
 			<p><a href="https://ucfopen.github.io/Materia-Docs/play/getting-started.html">Player/Student Guide</a></p>
