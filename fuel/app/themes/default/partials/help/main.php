@@ -20,13 +20,13 @@
 		</section>
 
 		<section class="float right">
-			<h2 id="support">I'm having some trouble with TCC Materia, who can I contact for help?</h2>
+			<h3 id="support">I'm still having some trouble, who can I contact for help?</h2>
 			<p>If you need help beyond what has been provided here, please contact Travis Sampiero at TCC Online using one of the following methods:</p>
 			<dl>
 				<dt>Email</dt>
-					<dd><a href="travis.sampiero@tcc.fl.edu">travis.sampiero@tcc.fl.edu</a></dd>
+					<dd><a href="mailto:travis.sampiero@tcc.fl.edu">travis.sampiero@tcc.fl.edu</a></dd>
 				<dt>Phone (8:00am to 5:00pm weekdays)</dt>
-					<dd>(850)201-9417</dd>
+					<dd>(850) 201-9417</dd>
 			</dl>
 		</section>
 	</section>
