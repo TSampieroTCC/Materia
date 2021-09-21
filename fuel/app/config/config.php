@@ -386,5 +386,40 @@ return array(
 			'package' => 'https://github.com/ucfopen/survey-materia-widget/releases/download/v1.1.0/simple-survey.wigt',
 			'checksum' => 'https://github.com/ucfopen/survey-materia-widget/releases/download/v1.1.0/simple-survey-build-info.yml'
 		],
+		[
+			'id' => 13,
+			'package' => 'https://github.com/ucfopen/nursing-space-simulator-materia-widget/releases/download/v0.3.2/nursing-simulation-builder.wigt',
+			'checksum' => 'https://github.com/ucfopen/nursing-space-simulator-materia-widget/releases/download/v0.3.2/nursing-simulation-builder-build-info.yml'
+		],
+		[
+			'id' => 14,
+			'package' => 'https://github.com/ucfopen/last-chance-cadet-materia-widget/releases/download/v2.0.4/last-chance-cadet.wigt',
+			'checksum' => 'https://github.com/ucfopen/last-chance-cadet-materia-widget/releases/download/v2.0.4/last-chance-cadet-build-info.yml'
+		],
+		[
+			'id' => 15,
+			'package' => 'https://github.com/ucfopen/normal-distribution-calculator-materia-widget/releases/download/v1.0.2/normal-distribution-calculator.wigt',
+			'checksum' => 'https://github.com/ucfopen/normal-distribution-calculator-materia-widget/releases/download/v1.0.2/normal-distribution-calculator-build-info.yml'
+		],
+		[
+			'id' => 16,
+			'package' => 'https://github.com/ucfopen/syntax-sorter-materia-widget/releases/download/v1.1.0/syntax-sorter.wigt',
+			'checksum' => 'https://github.com/ucfopen/syntax-sorter-materia-widget/releases/download/v1.1.0/syntax-sorter-build-info.yml'
+		],
+		[
+			'id' => 17,
+			'package' => 'https://github.com/ucfopen/radar-grapher-materia-widget/releases/download/v1.0.3/radar-grapher.wigt',
+			'checksum' => 'https://github.com/ucfopen/radar-grapher-materia-widget/releases/download/v1.0.3/radar-grapher-build-info.yml'
+		],
+		[
+			'id' => 18,
+			'package' => 'https://github.com/ucfopen/sequencer-materia-widget/releases/download/v1.0.4/sequencer.wigt',
+			'checksum' => 'https://github.com/ucfopen/sequencer-materia-widget/releases/download/v1.0.4/sequencer-build-info.yml'
+		],
+		[
+			'id' => 19,
+			'package' => 'https://github.com/ucfopen/secret-spreadsheet-materia-widget/releases/download/v1.0.0/secret-spreadsheet.wigt',
+			'checksum' => 'https://github.com/ucfopen/secret-spreadsheet-materia-widget/releases/download/v1.0.0/secret-spreadsheet-build-info.yml'
+		],
 	],
 );
